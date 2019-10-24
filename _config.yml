@@ -1,11 +1,11 @@
 # Site settings
 title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+SEOTitle: 当Gopher的第一天|Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: 993marsxu@gmail.com
+description: "猫吃鲤的Blog，随手开坑"
+keyword: "Blog, 猫吃鲤, maocili,xuxifeng,Golang,Go,Python"
+url: "https://maocili.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
