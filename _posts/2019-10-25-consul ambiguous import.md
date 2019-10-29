@@ -4,7 +4,7 @@ title: cannot load github.com/hashicorp/consul/api: ambiguous import
 subtitle: consul安装多个版本导致的import冲突，已解决
 date: 2019-10-26
 author: Maocili
-header-img: img/post-bg-debug.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
   - golang
